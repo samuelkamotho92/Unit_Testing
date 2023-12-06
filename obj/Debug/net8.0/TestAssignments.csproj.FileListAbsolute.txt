@@ -12,3 +12,4 @@ C:\Users\Twinnie Tech\source\repos\TestAssignments\obj\Debug\net8.0\refint\TestA
 C:\Users\Twinnie Tech\source\repos\TestAssignments\obj\Debug\net8.0\TestAssignments.pdb
 C:\Users\Twinnie Tech\source\repos\TestAssignments\obj\Debug\net8.0\TestAssignments.genruntimeconfig.cache
 C:\Users\Twinnie Tech\source\repos\TestAssignments\obj\Debug\net8.0\ref\TestAssignments.dll
+C:\Users\Twinnie Tech\source\repos\TestAssignments\obj\Debug\net8.0\TestAssignments.sourcelink.json
