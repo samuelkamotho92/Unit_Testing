@@ -1,0 +1,14 @@
+C:\Users\Twinnie Tech\source\repos\TestAssignments\bin\Debug\net8.0\TestAssignments.exe
+C:\Users\Twinnie Tech\source\repos\TestAssignments\bin\Debug\net8.0\TestAssignments.deps.json
+C:\Users\Twinnie Tech\source\repos\TestAssignments\bin\Debug\net8.0\TestAssignments.runtimeconfig.json
+C:\Users\Twinnie Tech\source\repos\TestAssignments\bin\Debug\net8.0\TestAssignments.dll
+C:\Users\Twinnie Tech\source\repos\TestAssignments\bin\Debug\net8.0\TestAssignments.pdb
+C:\Users\Twinnie Tech\source\repos\TestAssignments\obj\Debug\net8.0\TestAssignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Twinnie Tech\source\repos\TestAssignments\obj\Debug\net8.0\TestAssignments.AssemblyInfoInputs.cache
+C:\Users\Twinnie Tech\source\repos\TestAssignments\obj\Debug\net8.0\TestAssignments.AssemblyInfo.cs
+C:\Users\Twinnie Tech\source\repos\TestAssignments\obj\Debug\net8.0\TestAssignments.csproj.CoreCompileInputs.cache
+C:\Users\Twinnie Tech\source\repos\TestAssignments\obj\Debug\net8.0\TestAssignments.dll
+C:\Users\Twinnie Tech\source\repos\TestAssignments\obj\Debug\net8.0\refint\TestAssignments.dll
+C:\Users\Twinnie Tech\source\repos\TestAssignments\obj\Debug\net8.0\TestAssignments.pdb
+C:\Users\Twinnie Tech\source\repos\TestAssignments\obj\Debug\net8.0\TestAssignments.genruntimeconfig.cache
+C:\Users\Twinnie Tech\source\repos\TestAssignments\obj\Debug\net8.0\ref\TestAssignments.dll
