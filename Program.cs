@@ -8,3 +8,8 @@ ChunkArray chunkArray = new ChunkArray();
 int[] arrayVal = { 1, 2, 3, 3, 4, 5, 6, 7 };
 int chunk = 3;
 chunkArray.getSubArray(arrayVal,chunk);
+
+
+Trainee trainee = new Trainee();
+trainee.addStudent("samuel");
+trainee.removeStudent("Samuel");
