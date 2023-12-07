@@ -9,7 +9,7 @@ namespace TestAssignments
     public class ChunkArray
     {
 
-        public List<string>  getSubArray( int[] arrays, int chunk)
+        public  List<List<int>>  getSubArray( int[] arrays, int chunk)
         {
             int[] arrayVal = arrays;
             int chunkSize = chunk;
@@ -17,7 +17,7 @@ namespace TestAssignments
             //create a list to store result
 
             List<List<int>> results = new List<List<int>>();
-            List<string> newArrayVal = new List<string>();
+            List<List<int>> newArrayVal = new List<List<int>>();
             for (int i = 0; i<arrayVal.Length; i+=chunkSize)
             {
                 var chunkElement = arrayVal.Skip(i).Take(chunkSize).ToList();
@@ -25,8 +25,10 @@ namespace TestAssignments
             }
             foreach (var subArray in results)
             {
-                newArrayVal.Add($"[{string.Join(", ", subArray)}]");
+            newArrayVal.Add(subArray);
             }
+         
+            //Console.WriteLine(newArrayVal);
             return newArrayVal;
         }
     }
